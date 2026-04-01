@@ -1,3 +1,8 @@
+#STUDENT DETAILS
+# REG NUM: R227541E
+# NAME: BRENDON T MAKURUMURE
+# PROGRAM: HDSC
+
 # HASTS416 Tutorial 1 in R - Question A1
 
 # (a) Define transition probability matrix P
